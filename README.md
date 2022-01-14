@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Dreamweaver15
 - 👀 I’m interested in Programming Languages
 - 🌱 I’m currently learning C#
+- I’m currently learning MySQL
 - 💞️ I’m looking to collaborate on C# projects
 - 📫 How to reach me inxtaac@gmail.com
 
